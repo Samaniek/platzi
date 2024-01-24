@@ -1,0 +1,19 @@
+header{
+    background: #8E2DE2;
+    background: -webkit-linear-gradient(to right, #4A00E0, #8E2DE2);
+    background: linear-gradient(to right, #4A00E0, #8E2DE2);
+}
+
+body {
+    vertical-align: middle !important;
+}
+
+.centered {
+    text-align: center !important;
+    vertical-align: middle !important;
+}
+
+table th {
+background-color: #337ab7 !important;
+color: white;
+}
